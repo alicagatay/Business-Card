@@ -1,6 +1,6 @@
 # Introduction
 
-Business Card is an application I developed by following a module in the Flutter course made by Angela Yu on [App Brewery](https://www.appbrewery.co)
+Business Card is a Flutter  application I developed by following a module in Angela Yu's Flutter course on [App Brewery](https://www.appbrewery.co)
 
 # About The Application
 
